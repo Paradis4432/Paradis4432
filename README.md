@@ -1,2 +1,5 @@
-# https-github.com-Paradis4432
-![Metrics](https://metrics.lecoq.io/Paradis4432?template=classic&config.timezone=America%2FBuenos_Aires)
+### **Hello, I'm Paradis** ###
+
+[this]() is my personal website, here you can find anything you want about me
+
+I am currently working on a [Data Science](https://github.com/Paradis4432/BoxingMatchPrediction) proyect.
