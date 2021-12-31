@@ -2,4 +2,4 @@
 
 [this]() is my personal website, here you can find anything you want about me (im working on it, almost done)
 
-I am currently working on a [Data Science](https://github.com/Paradis4432/BoxingMatchPrediction) proyect.
+I am currently working on a [URF match outcome prediction - Data Science](https://github.com/Paradis4432/BoxingMatchPrediction) proyect.
