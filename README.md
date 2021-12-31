@@ -1,5 +1,5 @@
 ### **Hello, I'm Paradis** ###
 
-[this]() is my personal website, here you can find anything you want about me
+[this]() is my personal website, here you can find anything you want about me (im working on it, almost done)
 
 I am currently working on a [Data Science](https://github.com/Paradis4432/BoxingMatchPrediction) proyect.
