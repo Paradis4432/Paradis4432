@@ -1,8 +1,4 @@
 ### **Hello, I'm Paradis** ###
 
-Software enginier looking for new proyects to work on, with more than 6 years of experience. personal website: http://www.dparadis.tech
-
----
-### **Hola, Soy Paradis** ###
-
-Programador en Software buscando nuevos proyectos en los que trabajar, con mas de 6 años de experiencia. pagina personal: http://www.dparadis.tech
+I am a software engineer currently studying a Batchler degree in Game Development.
+Currently looking to join a team or start working. With more than 6 years of experience in general programming, i have a vast variety of ideas and projects, on this same github you can find 6 pinned; those are the ones that i like the most, nonetheless, there's a lot more in repositories.
