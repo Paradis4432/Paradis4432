@@ -5,5 +5,5 @@ Currently looking to join a team or start working. With more than 6 years of exp
 
 My personal website: http://dparadis.tech
 --
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Paradis4432)
 
