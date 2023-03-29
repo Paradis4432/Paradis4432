@@ -1,9 +1,5 @@
-### **Hello, I'm Paradis** ###
+**Hi, I'm Paradis** - a software engineer with a focus on game development. I have 6+ years of experience in programming, and you can find some of my favorite projects pinned on my Github profile. Check out my personal website at http://dparadis.tech to learn more about me!
 
-I am a software engineer currently studying a Batchler degree in Game Development.
-Currently looking to join a team or start working. With more than 6 years of experience in general programming, i have a vast variety of ideas and projects, on this same github you can find 6 pinned; those are the ones that i like the most, nonetheless, there's a lot more in repositories.
-
-My personal website: http://dparadis.tech
 --
 ![](https://komarev.com/ghpvc/?username=Paradis4432)
 
